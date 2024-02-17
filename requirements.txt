@@ -1,6 +1,5 @@
 ﻿flask
 bs4
 requests
-typing
 fake_useragent
 Werkzeug
