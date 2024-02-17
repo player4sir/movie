@@ -2,6 +2,5 @@
 bs4
 requests
 typing
-concurrent.futures
 fake_useragent
 Werkzeug
