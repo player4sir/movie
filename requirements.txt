@@ -1,7 +1,6 @@
 ﻿flask
 bs4
 requests
-re
 typing
 concurrent.futures
 fake_useragent
